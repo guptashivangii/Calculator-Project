@@ -18,15 +18,15 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 
 ## 🚀 *Live Demo*
 
-🔗[[View Deployed Site on Netlify](https://glassthemecalculator.netlify.app/)]
+🔗 https://glassthemecalculator.netlify.app/
 
 ## 🗂 *Project Structure*
 
-Calculator-Project/
-├── index.html # Main structure
-├── style.css # Design and layout
-├── calc.js # Logic and interactivity
-└── README.md # Project overview
+Calculator-Project  
+├── index.html # Main structure<br>
+├── style.css # Design and layout<br>
+├── calc.js # Logic and interactivity<br>
+└── README.md # Project overview<br>
 
 ## 📚 *What I Learned*
 
